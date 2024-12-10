@@ -19,6 +19,6 @@ export default defineConfig({
 		},
 	},
 	site: 'https://2sleepy4you.github.io',
-  	base: 'catnotionembed'
+  	base: '/catnotionembed'
 });
 
