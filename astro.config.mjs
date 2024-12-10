@@ -18,7 +18,7 @@ export default defineConfig({
 			noExternal: ["astro", "@astrojs/image"],
 		},
 	},
-	site: 'https://vijiatjack.github.io',
-  	base: '/nookoffice'
+	site: 'https://2sleepy4you.github.io',
+  	base: '/catnotionembed'
 });
 
